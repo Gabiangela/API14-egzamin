@@ -1,0 +1,31 @@
+.iron{
+    background-color: rgb(179, 255, 0);
+    margin: auto;
+     border-style: dashed solid;
+     border-width: 5px;
+     border-color: black;
+
+
+}
+.iron-1{
+text-align: center;
+padding: 10px;
+margin: auto;
+border-style: dotted;
+border-width: 2px;
+border-color: orangered;
+
+}
+.iron-2{
+    text-align: left;
+   
+}
+h1{
+    text-align: center;
+    text-shadow: 35px;
+    color: blue;
+}
+h2{
+    text-align: center;
+    color: red;
+}
